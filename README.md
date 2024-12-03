@@ -1,5 +1,5 @@
 ### Hi there 👋, my full name is Ayoub bahadda
-#### I am a Data engineer and web Developper
+#### I am a Data engineer and web Developper (student)
 ![I am a Data engineer and web Developper](https://media.licdn.com/dms/image/v2/D4D16AQE_uy_IRlB9SQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724276300756?e=1738800000&v=beta&t=BscA2lxu9hxv8DecLXj-giuJDNOCBxfidJt391PthIw)
 
  passionate developer who loves to create innovative solutions and contribute to the tech community. Welcome to my GitHub portfolio! This repository showcases some of the projects I've worked on and a collection of my skill
