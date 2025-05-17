@@ -1,7 +1,7 @@
 # Hi there, I'm Ayoub Bahadda 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E88E5&center=true&width=435&lines=Data+Engineer+%7C+Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver+%7C+Innovator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E88E5&center=true&width=435&lines=Data+Engineer+%7C+Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Engineer+%7C+Innovator" />
 </div>
 
 ## 🎓 About Me
